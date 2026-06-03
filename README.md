@@ -136,12 +136,6 @@
 └── Location: Beheira, Egypt
 ```
 
----
-
-## 📊 Languages
-
-**Arabic:** Native  
-**English:** Intermediate (Good written and verbal communication)
 
 ---
 
