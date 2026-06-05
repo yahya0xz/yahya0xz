@@ -13,8 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yahya0xz-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yahya0xz)
 [![Email](https://img.shields.io/badge/Email-yz442655@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yz442655@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B20%20109%20557%208349-25D366?style=flat-square&logo=whatsapp)](tel:+201095578349)
-
 </div>
 
 ---
@@ -132,7 +130,6 @@
 /contact
 ├── LinkedIn: linkedin.com/in/yahya0xz
 ├── Email: yz442655@gmail.com
-├── Phone: +20 109 557 8349
 └── Location: Beheira, Egypt
 ```
 
