@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yahya0xz-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yahya0xz)
 [![Email](https://img.shields.io/badge/Email-yz442655@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yz442655@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yahya0xz.netlify.app-E67E22?style=flat-square&logo=react)](https://yahya0xz.netlify.app/)
 </div>
 
 ---
@@ -130,6 +131,7 @@
 /contact
 ├── LinkedIn: linkedin.com/in/yahya0xz
 ├── Email: yz442655@gmail.com
+├── Discord: discord.com/users/yahya0xz
 └── Location: Beheira, Egypt
 ```
 
